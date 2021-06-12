@@ -63,6 +63,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=shubhamnagota&show_icons=true&hide_border=true" />
+<img align="left" alt="Shubham's GitHub Stats" src="[![Shubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=shubhamnagota)](https://github.com/anuraghazra/github-readme-stats)
+" />
 
 </details>
